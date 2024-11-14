@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "246911495860",
+    "project_id": "goal-clash-one",
+    "storage_bucket": "goal-clash-one.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246911495860:android:66623671a7615aad7c71e1",
+        "android_client_info": {
+          "package_name": "com.squaredesign.goalclash.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfLOyEK7fATglDY6_anzpdMNlmx1i1Vcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
